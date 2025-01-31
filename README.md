@@ -39,7 +39,7 @@ CREATE TABLE Retail (
     cogs FLOAT,
     total_sale FLOAT
 );
-
+```
 
 ### 2. Data Exploration & Cleaning
 
